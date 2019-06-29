@@ -2,6 +2,7 @@ import datetime
 import time
 from math import sqrt, ceil
 
+
 import numpy as np
 from sklearn.svm import NuSVC
 
